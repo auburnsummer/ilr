@@ -1,0 +1,17 @@
+{
+  "name": "ilr",
+  "version": "0.0.3b",
+  "description": "run inline Ramda expressions to manipulate JSON",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
