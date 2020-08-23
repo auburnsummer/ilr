@@ -1,6 +1,6 @@
 {
   "name": "ilr",
-  "version": "0.0.3b",
+  "version": "0.0.3c",
   "description": "run inline Ramda expressions to manipulate JSON",
   "main": "index.js",
   "bin": "index.js",
